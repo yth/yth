@@ -32,6 +32,10 @@ duration: 5 hours
 NEXT: 2020/01/22 18:00 EST at Snell Library
 
 ### Meeting 3
+Personal Goals: Explain why hash\_ is not in object (extensional truth)
+		Note the ownership of fields and responsibilities
+		Change compare method to gt/lt method
+
 date/time:
 place:
 goal:
