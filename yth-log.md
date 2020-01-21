@@ -24,8 +24,31 @@ NEXT: 2020/01/20 13:00 EST (Updated to 16:00 EST)
 
 
 ### Meeting 2
-Personal Goal:
-	Talk about communication strategy, talk about process and methodology
+date/time: 2020/01/20 16:00 EST
+place: Snell Library
+goal: Part 2 of the project
+notes: Completed Part 2
+duration: 5 hours
+NEXT: 2020/01/22 18:00 EST at Snell Library
+
+### Meeting 3
+date/time:
+place:
+goal:
+notes:
+duration:
+NEXT: 
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Reflection
