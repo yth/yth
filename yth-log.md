@@ -34,7 +34,9 @@ NEXT: 2020/01/22 18:00 EST at Snell Library
 ### Meeting 3
 Personal Goals: Explain why hash\_ is not in object (extensional truth)
 		Note the ownership of fields and responsibilities
-		Change compare method to gt/lt method
+		Use C++ Interface Class?
+			https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Interface_Class
+
 
 date/time:
 place:
