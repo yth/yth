@@ -22,7 +22,6 @@ notes: Made really good progress, but need to add testing mechanisms
 duration: ~7 hours
 NEXT: 2020/01/20 13:00 EST (Updated to 16:00 EST)
 
-
 ### Meeting 2
 date/time: 2020/01/20 16:00 EST
 place: Snell Library
@@ -32,6 +31,15 @@ duration: 5 hours
 NEXT: 2020/01/22 18:00 EST at Snell Library
 
 ### Meeting 3
+date/time: 2020/01/22 18:00 EST
+place: Snell Library
+goal: Implement testing for the earlier parts and progress farther
+notes: Adopted better TDD practices and made more solid progress
+duration: 8 hours
+NEXT: 2020/01/23 18:00 EST at Snell Library
+
+
+### Meeting 4
 Personal Goals: Explain why hash\_ is not in object (extensional truth)
 		Note the ownership of fields and responsibilities
 		Use C++ Interface Class?
@@ -47,10 +55,13 @@ NEXT:
 
 
 
-
-
-
-
+### Meeting 5
+date/time:
+place:
+goal:
+notes:
+duration:
+NEXT: 
 
 
 
