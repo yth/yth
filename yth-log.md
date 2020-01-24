@@ -38,24 +38,20 @@ notes: Adopted better TDD practices and made more solid progress
 duration: 8 hours
 NEXT: 2020/01/23 18:00 EST at Snell Library
 
-
 ### Meeting 4
-Personal Goals: Explain why hash\_ is not in object (extensional truth)
-		Note the ownership of fields and responsibilities
-		Use C++ Interface Class?
-			https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Interface_Class
-
-
-date/time:
-place:
-goal:
-notes:
-duration:
-NEXT: 
-
+date/time: 2020/01/23 18:00 EST at Snell Library
+place: Snell Library
+goal: Complete most of the assignment
+notes: Pushed through to completion, still need to do some debugging and doc
+duration: 6 hours
+NEXT: 2020/01/24 15:30 EST
 
 
 ### Meeting 5
+Personal Goals: Explain why hash\_ is not in object (extensional truth)
+		Note the ownership of fields and responsibilities
+
+
 date/time:
 place:
 goal:
