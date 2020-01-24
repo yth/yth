@@ -50,6 +50,7 @@ NEXT: 2020/01/24 15:30 EST
 ### Meeting 5
 Personal Goals: Explain why hash\_ is not in object (extensional truth)
 		Note the ownership of fields and responsibilities
+        Add a note that we are working mainly with pointers
 
 
 date/time:
