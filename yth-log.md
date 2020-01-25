@@ -48,20 +48,31 @@ NEXT: 2020/01/24 15:30 EST
 
 
 ### Meeting 5
-Personal Goals: Explain why hash\_ is not in object (extensional truth)
-		Note the ownership of fields and responsibilities
-        Add a note that we are working mainly with pointers
+date/time: 2020/01/24 15:30 EST
+place: Snell Library
+goal: Fix up the repo for submission
+notes: Changed the repo to fit submission requirements
+duration: 30 min
+NEXT: When we know more about the assignment
 
 
+## Reflection
+actual time needed: 27 hours
+outstanding issues: still have questions about what the assignment asks for
+exactly. Only completed to the best of our understanding.
+
+
+# Assignment 2
+
+## Personal Goals
+
+### Meeting 6
 date/time:
 place:
 goal:
 notes:
 duration:
 NEXT: 
-
-
-
 
 
 
@@ -73,10 +84,14 @@ outstanding issues:
 
 
 
-# Assignment 2
+# Assignment 3
 
 
 
+
+## Reflection
+actual time needed:
+outstanding issues:
 
 
 # Templates
@@ -86,3 +101,11 @@ goal:
 notes:
 duration:
 NEXT: 
+
+
+## Reflection
+actual time needed:
+outstanding issues:
+
+
+
