@@ -67,6 +67,7 @@ exactly. Only completed to the best of our understanding.
 ## Personal Goals
 
 ### Meeting 6
+Personal Goal: Reflect on what went well/poorly for the last assignment
 date/time:
 place:
 goal:
