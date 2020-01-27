@@ -67,13 +67,12 @@ exactly. Only completed to the best of our understanding.
 ## Personal Goals
 
 ### Meeting 6
-Personal Goal: Reflect on what went well/poorly for the last assignment
-date/time:
-place:
-goal:
-notes:
-duration:
-NEXT: 
+date/time: 2020/01/26 16:00 EST
+place: Snell Library
+goal: Plan assignment; Get Started on Assignment
+notes: Implemented queue
+duration: 4 hours
+NEXT: Depending on issues and pull requests, will discuss after class on Monday
 
 
 
