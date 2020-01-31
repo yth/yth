@@ -74,8 +74,23 @@ notes: Implemented queue
 duration: 4 hours
 NEXT: Depending on issues and pull requests, will discuss after class on Monday
 
+### Meeting 7
+date/time: 2020/01/29 18:00 EST
+place: Snell library
+goal: Get on top of assignment
+notes: Got a pretty good start
+duration: 3 hours
+NEXT: 2020/01/30 18:00 EST
 
+### Meeting 8
+date/time: 2020/01/30 18:00 EST
+place: Snell library
+goal: Work on assignment and debugging A1 for A3
+notes: Got a pretty good start
+duration: 6 hours
+NEXT: 2020/01/31 precise timing depends on needs
 
+## Reflection
 ## Reflection
 actual time needed:
 outstanding issues:
