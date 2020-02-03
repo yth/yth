@@ -69,7 +69,7 @@ Personal Goal: Reflect on what went well/poorly for the last assignment
 date/time: 2020/01/26 16:00 EST
 place: Snell Library
 goal: Get started on A2
-notes: Started the assignment, and made plans
+notes: Started the assignment, implemented queue, and made plans
 duration: 4.5 h
 NEXT: Depending on needs, will schedule next one
 
@@ -81,22 +81,13 @@ notes: Found more issues to talk to the design team about
 duration: 3 hours
 NEXT: 2020/01/30 18:00 EST
 
-### Meeting 7
-date/time: 2020/01/29 18:00 EST
-place: Snell Library
-goal: Continue working on implementing data structures
-notes: Found more issues to talk to the design team about
-duration: 3 hours
-NEXT: 2020/01/30 18:00 EST
-
 ### Meeting 8
 date/time: 2020/01/30 18:00 EST
-place: Snell Library
-goal: Continue working on implementing data structures
-notes: Found more issues to talk to the design team about
-duration: 3 hours
-NEXT: 2020/01/31 16:00 EST
-
+place: Snell library
+goal: Work on assignment and debugging A1 for A3
+notes: Got a pretty good start
+duration: 6 hours
+NEXT: 2020/01/31 precise timing depends on needs
 
 ### Meeting 9
 date/time: 2020/01/31 16:00 EST
