@@ -64,29 +64,65 @@ exactly. Only completed to the best of our understanding.
 
 # Assignment 2
 
-## Personal Goals
-
 ### Meeting 6
 Personal Goal: Reflect on what went well/poorly for the last assignment
-date/time:
-place:
-goal:
-notes:
-duration:
-NEXT: 
+date/time: 2020/01/26 16:00 EST
+place: Snell Library
+goal: Get started on A2
+notes: Started the assignment, and made plans
+duration: 4.5 h
+NEXT: Depending on needs, will schedule next one
 
+### Meeting 7
+date/time: 2020/01/29 18:00 EST
+place: Snell Library
+goal: Continue working on implementing data structures
+notes: Found more issues to talk to the design team about
+duration: 3 hours
+NEXT: 2020/01/30 18:00 EST
+
+### Meeting 7
+date/time: 2020/01/29 18:00 EST
+place: Snell Library
+goal: Continue working on implementing data structures
+notes: Found more issues to talk to the design team about
+duration: 3 hours
+NEXT: 2020/01/30 18:00 EST
+
+### Meeting 8
+date/time: 2020/01/30 18:00 EST
+place: Snell Library
+goal: Continue working on implementing data structures
+notes: Found more issues to talk to the design team about
+duration: 3 hours
+NEXT: 2020/01/31 16:00 EST
+
+
+### Meeting 9
+date/time: 2020/01/31 16:00 EST
+place: Snell Library
+goal: Finish assignment, prepare handin and handing in assignment
+notes: Stressful last minute finish
+duration: 4 hours
+NEXT: Depending on the assignment
 
 
 ## Reflection
-actual time needed:
-outstanding issues:
-
-
-
+actual time needed: A lot more than expected, and can be accounted for, since
+there were a lot of instances where we needed to respond quickly to other people
+opening up issues.
+outstanding issues: Could not come together with the map design team
 
 
 # Assignment 3
 
+# Templates
+date/time: 2020/02/02 13:00 EST
+place: Snell Library
+goal: Getting Started on Assignment 3
+notes: Evaluated 6 implementations and created a system for investigate more
+duration: 7 hours
+NEXT: Expected to be on Wednesday
 
 
 
