@@ -107,7 +107,7 @@ outstanding issues: Could not come together with the map design team
 
 # Assignment 3
 
-# Templates
+### Meeting 10
 date/time: 2020/02/02 13:00 EST
 place: Snell Library
 goal: Getting Started on Assignment 3
@@ -115,12 +115,38 @@ notes: Evaluated 6 implementations and created a system for investigate more
 duration: 7 hours
 NEXT: Expected to be on Wednesday
 
+### Meeting 11
+date/time: 2020/02/03 17:00 EST
+place: Snell Library
+goal: Getting started on dataframe design
+notes: Actually spent changing A1P1 code for presentation
+duration: 7 hours
+NEXT: Expected to be on Thursday
+
+### Meeting 12
+date/time: 2020/02/06 18:00 EST
+place: Snell Library
+goal: Getting started on dataframe design
+notes: Mostly completely design of dataframe
+duration: 6 hours
+NEXT: Expected to be on Friday
+
+### Meeting 13
+date/time: 2020/02/07 16:00 EST
+place: Snell Library
+goal: Finish review of implementations and submit
+notes: Finished
+duration: 3 hours
+NEXT: Expected to be on Friday
 
 
 ## Reflection
-actual time needed:
-outstanding issues:
+actual time needed: 23 hours + many more hours of thinking and preparing
+outstanding issues: We are still unhappy with the lack of generics and therefore
+could not come up with a better solution to a .get method for a dataframe.
 
+
+# Assignment 4
 
 # Templates
 date/time:
