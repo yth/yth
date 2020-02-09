@@ -137,7 +137,7 @@ place: Snell Library
 goal: Finish review of implementations and submit
 notes: Finished
 duration: 3 hours
-NEXT: Expected to be on Friday
+NEXT: Expected to be on Sunday
 
 
 ## Reflection
@@ -147,6 +147,17 @@ could not come up with a better solution to a .get method for a dataframe.
 
 
 # Assignment 4
+
+### Meeting 14
+date/time:
+place:
+goal:
+notes:
+duration:
+NEXT: 
+
+
+
 
 # Templates
 date/time:
