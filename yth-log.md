@@ -178,18 +178,9 @@ NEXT: 2020/02/16 13:00 EST
 date/time: 2020/02/16 14:00 EST
 place: Snell Library
 goal: Get started
-notes: 
-duration: 
-NEXT: 
-
-
-
-
-
-
-
-
-
+notes:
+duration:
+NEXT:
 
 
 
@@ -200,7 +191,7 @@ place:
 goal:
 notes:
 duration:
-NEXT: 
+NEXT:
 
 
 ## Reflection
