@@ -137,7 +137,7 @@ place: Snell Library
 goal: Finish review of implementations and submit
 notes: Finished
 duration: 3 hours
-NEXT: Expected to be on Friday
+NEXT: Expected to be on Sunday
 
 
 ## Reflection
@@ -147,6 +147,52 @@ could not come up with a better solution to a .get method for a dataframe.
 
 
 # Assignment 4
+
+### Meeting 14
+date/time: 2020/02/09 15:00 EST
+place: Snell Library
+goal: Get started
+notes: Discovered that we'll both be busy next week
+duration: 5 hours
+NEXT: 2020/02/13 18:00 EST
+
+### Meeting 15
+date/time: 2020/02/13 18:00 EST
+place: Snell Library
+goal: Continue implementing dataframe
+notes: Exhausted
+duration: 8 hours
+NEXT: 2020/02/14 16:00 EST
+
+### Meeting 16
+date/time: 2020/02/14 15:30 EST
+place: Snell Library
+goal: Finishing the work
+notes: Exhausted
+duration: 5 hours
+NEXT: 2020/02/16 13:00 EST
+
+# Assignment 5
+
+### Meeting 17
+date/time: 2020/02/16 14:00 EST
+place: Snell Library
+goal: Get started
+notes: 
+duration: 
+NEXT: 
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Templates
 date/time:
