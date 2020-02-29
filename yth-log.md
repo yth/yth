@@ -175,12 +175,73 @@ NEXT: 2020/02/16 13:00 EST
 # Assignment 5
 
 ### Meeting 17
-date/time: 2020/02/16 14:00 EST
+date/time: 2020/02/16 13:00 EST
 place: Snell Library
 goal: Get started
+notes: Worked on Networking and Create experiment
+duration: 9 hours
+NEXT: 2020/02/18
+
+### Meeting 18
+date/time: 2020/02/20 18:00 EST
+place: Snell Library
+goal: Work on experiment and networking
+notes: Rescheduled; Worked on networking and experiment
+duration: 6 hours
+NEXT: 2020/02/21 15:30 EST
+
+### Meeting 18
+date/time: 2020/02/21 15:30 EST
+place: Snell Library
+goal: Finish experiment and networking
+notes: Finished to the best of our ability
+duration: 4 hours
+NEXT: 2020/02/23
+
+# Assignment 6
+
+### Meeting 18
+date/time: 2020/02/23 13:00 EST
+place: Snell Library
+goal: Get started on A6
+notes: Started well
+duration: 7 hours
+NEXT: 2020/02/26 18:00 EST
+
+### Meeting 19
+date/time: 2020/02/26 18:00 EST
+place: Snell Library
+goal: Work on A6
+notes: Finished serialization
+duration: 3 hours
+NEXT: 2020/02/27
+
+### Meeting 20
+date/time: 2020/02/27 18:00 EST
+place: Snell Library
+goal: Work on A6 part 1 using serialization
+notes: Design and implement threaded client and server
+duration: 6 hours
+NEXT: 2020/02/28
+
+### Meeting 21
+date/time: 2020/02/28 15:30 EST
+place: Snell Library
+goal: Work on A6 part 1 using serialization
+notes: Complete part 1
+duration: 3 hours
+NEXT: 2020/02/28
+
+# Project
+
+### Meeting 22
+data/time: 2020/03/?? ??:?? EST
+place: Snell Library
+goal:
 notes:
 duration:
 NEXT:
+
 
 
 
